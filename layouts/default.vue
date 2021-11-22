@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>hearde</p>
+    <Header/>
     <nuxt/>
   </div>
 </template>
